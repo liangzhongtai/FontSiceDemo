@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal"
+        >
+        <RadioButton
+            android:id="@+id/rb_small"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/colorPrimary"
+            android:textSize="?textsize16"
+            android:gravity="center"
+            android:text="small"
+            />
+        <RadioButton
+            android:id="@+id/rb_normal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/colorPrimary"
+            android:textSize="?textsize16"
+            android:gravity="center"
+            android:text="normal"
+            />
+        <RadioButton
+            android:id="@+id/rb_big"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/colorPrimary"
+            android:textSize="?textsize16"
+            android:gravity="center"
+            android:text="big"
+            />
+    </RadioGroup>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="?textsize16"
+        android:text="橘（英语：Mandarin orange；学名：Citrus reticulata）是芸香科柑桔属的一种水果。“橘”（jú）和“桔”（jié）都是现代汉语规范字，然“桔”作橘子一义时，为“橘”的俗写[1]。在广东的一些方言中二字同音，“桔”也曾做过“橘”的二简字。闽南语称橘为柑仔。西南官话区的各方言中呼为“柑子”或“柑儿”。
+“柑橘”与“橘柑”不同：“柑橘”可以指柑橘属所有水果，包括柚、柑、橘、橙等；而“橘柑”在有些方言中和橘子同义。
+柑和橘都属于芸香科柑橘属的宽皮柑橘类，果实外皮肥厚，内藏瓤瓣，由汁泡和种子构成。"
+        />
+    <Button
+        android:id="@+id/btn_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="28dp"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/colorWhite"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:textSize="?textsize16"
+        android:text="确定"
+        />
+
+</RelativeLayout>

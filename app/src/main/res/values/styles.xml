@@ -1,0 +1,67 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeSmall" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textsize6">@dimen/fontsice6a</item>
+        <item name="textsize7">@dimen/fontsice7a</item>
+        <item name="textsize8">@dimen/fontsice8a</item>
+        <item name="textsize9">@dimen/fontsice9a</item>
+        <item name="textsize10">@dimen/fontsice10a</item>
+        <item name="textsize11">@dimen/fontsice11a</item>
+        <item name="textsize12">@dimen/fontsice12a</item>
+        <item name="textsize13">@dimen/fontsice13a</item>
+        <item name="textsize14">@dimen/fontsice14a</item>
+        <item name="textsize15">@dimen/fontsice15a</item>
+        <item name="textsize16">@dimen/fontsice16a</item>
+        <item name="textsize17">@dimen/fontsice17a</item>
+        <item name="textsize18">@dimen/fontsice18a</item>
+        <item name="textsize19">@dimen/fontsice19a</item>
+        <item name="textsize20">@dimen/fontsice20a</item>
+    </style>
+    <style name="AppThemeNormal" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textsize6">@dimen/fontsice6b</item>
+        <item name="textsize7">@dimen/fontsice7b</item>
+        <item name="textsize8">@dimen/fontsice8b</item>
+        <item name="textsize9">@dimen/fontsice9b</item>
+        <item name="textsize10">@dimen/fontsice10b</item>
+        <item name="textsize11">@dimen/fontsice11b</item>
+        <item name="textsize12">@dimen/fontsice12b</item>
+        <item name="textsize13">@dimen/fontsice13b</item>
+        <item name="textsize14">@dimen/fontsice14b</item>
+        <item name="textsize15">@dimen/fontsice15b</item>
+        <item name="textsize16">@dimen/fontsice16b</item>
+        <item name="textsize17">@dimen/fontsice17b</item>
+        <item name="textsize18">@dimen/fontsice18b</item>
+        <item name="textsize19">@dimen/fontsice19b</item>
+        <item name="textsize20">@dimen/fontsice20b</item>
+    </style>
+    <style name="AppThemeBig" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textsize6">@dimen/fontsice6c</item>
+        <item name="textsize7">@dimen/fontsice7c</item>
+        <item name="textsize8">@dimen/fontsice8c</item>
+        <item name="textsize9">@dimen/fontsice9c</item>
+        <item name="textsize10">@dimen/fontsice10c</item>
+        <item name="textsize11">@dimen/fontsice11c</item>
+        <item name="textsize12">@dimen/fontsice12c</item>
+        <item name="textsize13">@dimen/fontsice13c</item>
+        <item name="textsize14">@dimen/fontsice14c</item>
+        <item name="textsize15">@dimen/fontsice15c</item>
+        <item name="textsize16">@dimen/fontsice16c</item>
+        <item name="textsize17">@dimen/fontsice17c</item>
+        <item name="textsize18">@dimen/fontsice18c</item>
+        <item name="textsize19">@dimen/fontsice19c</item>
+        <item name="textsize20">@dimen/fontsice20c</item>
+    </style>
+</resources>

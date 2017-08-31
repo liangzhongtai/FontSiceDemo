@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fontsice6a">6sp</dimen>
+    <dimen name="fontsice7a">7sp</dimen>
+    <dimen name="fontsice8a">8sp</dimen>
+    <dimen name="fontsice9a">9sp</dimen>
+    <dimen name="fontsice10a">10sp</dimen>
+    <dimen name="fontsice11a">11sp</dimen>
+    <dimen name="fontsice12a">12sp</dimen>
+    <dimen name="fontsice13a">13sp</dimen>
+    <dimen name="fontsice14a">14sp</dimen>
+    <dimen name="fontsice15a">15sp</dimen>
+    <dimen name="fontsice16a">16sp</dimen>
+    <dimen name="fontsice17a">17sp</dimen>
+    <dimen name="fontsice18a">18sp</dimen>
+    <dimen name="fontsice19a">19sp</dimen>
+    <dimen name="fontsice20a">20sp</dimen>
+
+    <dimen name="fontsice6b">7sp</dimen>
+    <dimen name="fontsice7b">8sp</dimen>
+    <dimen name="fontsice8b">9sp</dimen>
+    <dimen name="fontsice9b">10sp</dimen>
+    <dimen name="fontsice10b">11sp</dimen>
+    <dimen name="fontsice11b">12sp</dimen>
+    <dimen name="fontsice12b">13sp</dimen>
+    <dimen name="fontsice13b">14sp</dimen>
+    <dimen name="fontsice14b">15sp</dimen>
+    <dimen name="fontsice15b">16sp</dimen>
+    <dimen name="fontsice16b">17sp</dimen>
+    <dimen name="fontsice17b">18sp</dimen>
+    <dimen name="fontsice18b">19sp</dimen>
+    <dimen name="fontsice19b">20sp</dimen>
+    <dimen name="fontsice20b">21sp</dimen>
+
+    <dimen name="fontsice6c">8sp</dimen>
+    <dimen name="fontsice7c">9sp</dimen>
+    <dimen name="fontsice8c">10sp</dimen>
+    <dimen name="fontsice9c">11sp</dimen>
+    <dimen name="fontsice10c">12sp</dimen>
+    <dimen name="fontsice11c">13sp</dimen>
+    <dimen name="fontsice12c">14sp</dimen>
+    <dimen name="fontsice13c">15sp</dimen>
+    <dimen name="fontsice14c">16sp</dimen>
+    <dimen name="fontsice15c">17sp</dimen>
+    <dimen name="fontsice16c">18sp</dimen>
+    <dimen name="fontsice17c">19sp</dimen>
+    <dimen name="fontsice18c">20sp</dimen>
+    <dimen name="fontsice19c">21sp</dimen>
+    <dimen name="fontsice20c">22sp</dimen>
+</resources>

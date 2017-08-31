@@ -1,0 +1,50 @@
+<resources>
+    <!-- font_sice -->
+    <dimen name="fontsice6a">7sp</dimen>
+    <dimen name="fontsice7a">8sp</dimen>
+    <dimen name="fontsice8a">9sp</dimen>
+    <dimen name="fontsice9a">10sp</dimen>
+    <dimen name="fontsice10a">11sp</dimen>
+    <dimen name="fontsice11a">12sp</dimen>
+    <dimen name="fontsice12a">13sp</dimen>
+    <dimen name="fontsice13a">14sp</dimen>
+    <dimen name="fontsice14a">15sp</dimen>
+    <dimen name="fontsice15a">16sp</dimen>
+    <dimen name="fontsice16a">17sp</dimen>
+	<dimen name="fontsice17a">18sp</dimen>
+	<dimen name="fontsice18a">19sp</dimen>
+	<dimen name="fontsice19a">20sp</dimen>
+    <dimen name="fontsice20a">21sp</dimen>
+
+    <dimen name="fontsice6b">8sp</dimen>
+    <dimen name="fontsice7b">9sp</dimen>
+    <dimen name="fontsice8b">10sp</dimen>
+    <dimen name="fontsice9b">11sp</dimen>
+    <dimen name="fontsice10b">12sp</dimen>
+    <dimen name="fontsice11b">13sp</dimen>
+    <dimen name="fontsice12b">14sp</dimen>
+    <dimen name="fontsice13b">15sp</dimen>
+    <dimen name="fontsice14b">16sp</dimen>
+    <dimen name="fontsice15b">17sp</dimen>
+    <dimen name="fontsice16b">18sp</dimen>
+	<dimen name="fontsice17b">19sp</dimen>
+	<dimen name="fontsice18b">20sp</dimen>
+	<dimen name="fontsice19b">21sp</dimen>
+    <dimen name="fontsice20b">22sp</dimen>
+
+    <dimen name="fontsice6c">9sp</dimen>
+    <dimen name="fontsice7c">10sp</dimen>
+    <dimen name="fontsice8c">11sp</dimen>
+    <dimen name="fontsice9c">12sp</dimen>
+    <dimen name="fontsice10c">13sp</dimen>
+    <dimen name="fontsice11c">14sp</dimen>
+    <dimen name="fontsice12c">15sp</dimen>
+    <dimen name="fontsice13c">16sp</dimen>
+    <dimen name="fontsice14c">17sp</dimen>
+    <dimen name="fontsice15c">18sp</dimen>
+    <dimen name="fontsice16c">19sp</dimen>
+	<dimen name="fontsice17c">20sp</dimen>
+	<dimen name="fontsice18c">21sp</dimen>
+	<dimen name="fontsice19c">22sp</dimen>
+    <dimen name="fontsice20c">23sp</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textsize6"              format="reference|dimension"/>  
+    <attr name="textsize7"              format="reference|dimension"/>  
+    <attr name="textsize8"              format="reference|dimension"/>  
+    <attr name="textsize9"              format="reference|dimension"/>  
+    <attr name="textsize10"             format="reference|dimension"/>  
+    <attr name="textsize11"             format="reference|dimension"/>  
+    <attr name="textsize12"             format="reference|dimension"/>  
+    <attr name="textsize13"             format="reference|dimension"/>  
+    <attr name="textsize14"             format="reference|dimension"/>  
+    <attr name="textsize15"             format="reference|dimension"/>  
+    <attr name="textsize16"             format="reference|dimension"/>  
+    <attr name="textsize17"             format="reference|dimension"/>  
+    <attr name="textsize18"             format="reference|dimension"/>  
+    <attr name="textsize19"             format="reference|dimension"/>  
+    <attr name="textsize20"             format="reference|dimension"/>  
+</resources>
